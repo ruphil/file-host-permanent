@@ -18,5 +18,9 @@
     "pws5": {
         "status": "on",
         "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws5"
+    },
+    "raventest": {
+        "status": "on",
+        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.raventest"
     }
 }
