@@ -1,26 +1,20 @@
 {
     "pws1": {
-        "status": "on",
-        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws1"
+        "status": "on"
     },
     "pws2": {
-        "status": "on",
-        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws2"
+        "status": "on"
     },
     "pws3": {
-        "status": "on",
-        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws3"
+        "status": "on"
     },
     "pws4": {
-        "status": "on",
-        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws4"
+        "status": "on"
     },
     "pws5": {
-        "status": "on",
-        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws5"
+        "status": "on"
     },
     "raventest": {
-        "status": "on",
-        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.raventest"
+        "status": "on"
     }
 }
