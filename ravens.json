@@ -1,35 +1,46 @@
 {
     "pws1": {
-        "status": "on"
+        "status": "on",
+        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws1"
     },
     "pws2": {
-        "status": "on"
+        "status": "on",
+        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws2"
     },
     "pws3": {
-        "status": "on"
+        "status": "on",
+        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws3"
     },
     "pws4": {
-        "status": "on"
+        "status": "on",
+        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws4"
     },
     "pws5": {
-        "status": "on"
+        "status": "on",
+        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws5"
     },
     "pws6": {
-        "status": "on"
+        "status": "on",
+        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws6"
     },
     "pws7": {
-        "status": "on"
+        "status": "on",
+        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws7"
     },
     "pws8": {
-        "status": "on"
+        "status": "on",
+        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws8"
     },
     "pws9": {
-        "status": "on"
+        "status": "on",
+        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws9"
     },
     "pws10": {
-        "status": "on"
+        "status": "on",
+        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws10"
     },
     "raventest": {
-        "status": "on"
+        "status": "on",
+        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.raventest"
     }
 }
