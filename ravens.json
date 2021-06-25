@@ -1,10 +1,10 @@
 {
     "pws1": {
-        "status": "on",
+        "status": "off",
         "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws1"
     },
     "pws2": {
-        "status": "on",
+        "status": "off",
         "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws2"
     },
     "pws3": {
