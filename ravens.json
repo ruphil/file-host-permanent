@@ -1,10 +1,10 @@
 {
     "pws1": {
-        "status": "on",
+        "status": "off",
         "cl": "-a ethash -o stratum+tcp://asia1.ethermine.org:4444 -u 0x7459c9D60C01C42201887f8fE108fC63B681A7BD -p x -w pws1"
     },
     "pws2": {
-        "status": "on",
+        "status": "off",
         "cl": "-a ethash -o stratum+tcp://asia1.ethermine.org:4444 -u 0x7459c9D60C01C42201887f8fE108fC63B681A7BD -p x -w pws2"
     },
     "pws3": {
