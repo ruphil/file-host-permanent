@@ -1,11 +1,11 @@
 {
     "pws1": {
         "status": "on",
-        "cl": "-a ethash -o stratum+tcp://asia1.ethermine.org:4444 -u 0x7459c9D60C01C42201887f8fE108fC63B681A7BD -p x -w pws1"
+        "cl": "-a ethash -o stratum+tcp://asia1.ethermine.org:4444 -u 0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60 -p x -w pws1"
     },
     "pws2": {
         "status": "on",
-        "cl": "-a ethash -o stratum+tcp://asia1.ethermine.org:4444 -u 0x7459c9D60C01C42201887f8fE108fC63B681A7BD -p x -w pws2"
+        "cl": "-a ethash -o stratum+tcp://asia1.ethermine.org:4444 -u 0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60 -p x -w pws2"
     },
     "pws3": {
         "status": "on",
