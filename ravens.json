@@ -9,38 +9,34 @@
     },
     "pws3": {
         "status": "on",
-        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws3"
+        "cl": "-a ethash -o stratum+tcp://asia1.ethermine.org:4444 -u 0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60 -p x -w pws3"
     },
     "pws4": {
         "status": "on",
-        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws4"
+        "cl": "-a ethash -o stratum+tcp://asia1.ethermine.org:4444 -u 0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60 -p x -w pws4"
     },
     "pws5": {
         "status": "on",
-        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws5"
+        "cl": "-a ethash -o stratum+tcp://asia1.ethermine.org:4444 -u 0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60 -p x -w pws5"
     },
     "pws6": {
         "status": "on",
-        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws6"
+        "cl": "-a ethash -o stratum+tcp://asia1.ethermine.org:4444 -u 0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60 -p x -w pws6"
     },
     "pws7": {
         "status": "on",
-        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws7"
+        "cl": "-a ethash -o stratum+tcp://asia1.ethermine.org:4444 -u 0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60 -p x -w pws7"
     },
     "pws8": {
         "status": "on",
-        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws8"
+        "cl": "-a ethash -o stratum+tcp://asia1.ethermine.org:4444 -u 0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60 -p x -w pws8"
     },
     "pws9": {
         "status": "on",
-        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws9"
-    },
-    "pws10": {
-        "status": "on",
-        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.pws10"
+        "cl": "-a ethash -o stratum+tcp://asia1.ethermine.org:4444 -u 0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60 -p x -w pws9"
     },
     "raventest": {
         "status": "on",
-        "cl": "-a ethash -o stratum2+tcp://asia.ethash-hub.miningpoolhub.com:20535 -u rajirukm.raventest"
+        "cl": "-a ethash -o stratum+tcp://asia1.ethermine.org:4444 -u 0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60 -p x -w raventest"
     }
 }
