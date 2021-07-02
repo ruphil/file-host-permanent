@@ -2,19 +2,19 @@
     "pws1": {
         "morningmode": "yes",
         "nightmode": "yes",
-        "cl": "-a ethash -o stratum+tcp://asia1.ethermine.org:4444 -u 0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60 -p x -w pws1",
+        "cl": "-P stratum1+tcp://0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60.pws1@asia1.ethermine.org:4444",
         "immediateshutdown": "no"
     },
     "pws2": {
         "morningmode": "yes",
         "nightmode": "yes",
-        "cl": "-a ethash -o stratum+tcp://asia1.ethermine.org:4444 -u 0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60 -p x -w pws2",
+        "cl": "-P stratum1+tcp://0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60.pws1@asia1.ethermine.org:4444",
         "immediateshutdown": "no"
     },
     "pws3": {
         "morningmode": "no",
         "nightmode": "yes",
-        "cl": "-a ethash -o stratum+tcp://asia1.ethermine.org:4444 -u 0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60 -p x -w pws3",
+        "cl": "-P stratum1+tcp://0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60.pws1@asia1.ethermine.org:4444",
         "immediateshutdown": "no"
     },
     "pws4": {
@@ -26,19 +26,19 @@
     "pws5": {
         "morningmode": "yes",
         "nightmode": "yes",
-        "cl": "-a ethash -o stratum+tcp://asia1.ethermine.org:4444 -u 0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60 -p x -w pws5",
+        "cl": "-P stratum1+tcp://0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60.pws1@asia1.ethermine.org:4444",
         "immediateshutdown": "no"
     },
     "pws6": {
         "morningmode": "yes",
         "nightmode": "yes",
-        "cl": "-a ethash -o stratum+tcp://asia1.ethermine.org:4444 -u 0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60 -p x -w pws6",
+        "cl": "-P stratum1+tcp://0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60.pws1@asia1.ethermine.org:4444",
         "immediateshutdown": "no"
     },
     "raventest": {
         "morningmode": "yes",
         "nightmode": "yes",
-        "cl": "-a ethash -o stratum+tcp://asia1.ethermine.org:4444 -u 0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60 -p x -w raventest",
+        "cl": "-P stratum1+tcp://0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60.raventest@asia1.ethermine.org:4444",
         "immediateshutdown": "no"
     }
 }
