@@ -8,31 +8,37 @@
     "pws2": {
         "morningmode": "yes",
         "nightmode": "yes",
-        "cl": "-P stratum1+tcp://0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60.pws1@asia1.ethermine.org:4444",
+        "cl": "-P stratum1+tcp://0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60.pws2@asia1.ethermine.org:4444",
         "immediateshutdown": "no"
     },
     "pws3": {
         "morningmode": "no",
         "nightmode": "yes",
-        "cl": "-P stratum1+tcp://0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60.pws1@asia1.ethermine.org:4444",
+        "cl": "-P stratum1+tcp://0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60.pws3@asia1.ethermine.org:4444",
         "immediateshutdown": "no"
     },
     "pws4": {
         "morningmode": "yes",
         "nightmode": "yes",
-        "cl": "-a ethash -o stratum+tcp://asia1.ethermine.org:4444 -u 0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60 -p x -w pws4",
+        "cl": "-P stratum1+tcp://0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60.pws4@asia1.ethermine.org:4444",
         "immediateshutdown": "no"
     },
     "pws5": {
         "morningmode": "yes",
         "nightmode": "yes",
-        "cl": "-P stratum1+tcp://0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60.pws1@asia1.ethermine.org:4444",
+        "cl": "-P stratum1+tcp://0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60.pws5@asia1.ethermine.org:4444",
         "immediateshutdown": "no"
     },
     "pws6": {
         "morningmode": "yes",
         "nightmode": "yes",
-        "cl": "-P stratum1+tcp://0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60.pws1@asia1.ethermine.org:4444",
+        "cl": "-P stratum1+tcp://0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60.pws6@asia1.ethermine.org:4444",
+        "immediateshutdown": "no"
+    },
+    "pws7": {
+        "morningmode": "yes",
+        "nightmode": "yes",
+        "cl": "-P stratum1+tcp://0x49AaA957C40B3c4F1F4fCD6af3d912b401cDee60.pws7@asia1.ethermine.org:4444",
         "immediateshutdown": "no"
     },
     "raventest": {
